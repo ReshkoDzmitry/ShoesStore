@@ -1,0 +1,363 @@
+@media all and (max-width : 1220px) {
+    .container {width: 1000px;}
+
+    nav {
+        padding-left: 65px;
+    }
+
+    nav li {
+        margin-right: 40px;
+    }
+
+    article {
+        margin-bottom: 30px;
+    }
+
+    .topBlockL {
+        background-size: 100% auto;
+        background-repeat: no-repeat;
+        width: 690px;
+        height: 368px;
+        float: left;
+    }
+
+    .topBlockTextL {
+        margin-top: 55px;
+        margin-bottom: 55px;
+    }
+
+    .topBlockTitle {
+        padding-top: 0px;
+    }
+
+    .topBlockRT {
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    float: right;
+    width: 300px;
+    height: 178px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    }
+
+    .topBlockTextRT {
+        margin-top: 128px;
+        margin-bottom: 20px;
+    }
+
+    .topBlockRB {
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    float: right;
+    width: 300px;
+    height: 180px;
+    margin-left: 10px;
+    }
+
+    .topBlockTextRB {
+        margin-top: 104px;
+        margin-bottom: 30px;
+    }
+
+    .blockMenuLi {
+        margin-right: 90px;
+    }
+
+    .contentImgShoesGeneral {
+        background-size: 100% auto;
+        width: 235px;
+        height: 235px;
+    }
+
+    .contentShoesImgText {
+        margin-top: 185px;
+        margin-bottom: 20px;
+    }
+
+    .shoesModelDiv {
+        width: 232px;
+        height: 275px;
+    }
+
+    .shoesModelImg {
+        width: 143px;
+        height: 143px;
+        padding-left: 45px;
+        padding-right: 45px;
+    }
+
+    p {
+        margin-top: 20px;
+    }
+    
+    .cardProductPrice {
+        padding-left: 120px;
+    }
+
+    .newsLeft {
+        width: 513px;
+    }
+
+    .subscription {
+        height: 305px;
+    }
+
+    .subscriptionRight {
+        width: 620px;
+        margin-top: 25px;
+        margin-bottom: 34px;
+    }
+
+    .subscriptionLeft {
+        background-size: 100% auto;
+        background-repeat: no-repeat;
+        width: 379px;
+        height: 305px;
+    }
+
+    .subscriptionTitle {
+        padding-left: 50px;
+    }
+
+    .subscriptionContent {
+        padding-left: 50px;
+        padding-top: 0px;
+        margin-top: 25px;
+    }
+
+    .subscriptionInput {
+        margin-top: 30px;
+        margin-left: 50px;
+    }
+
+    .subscriptionButton {
+        margin-top: 30px;
+        margin-left: 5px;
+        float: left;
+    }
+
+    .group1 {
+        width: 317px;
+        height: 221px;
+    }
+
+    .group2 {
+        width: 317px;
+    }
+
+    .group3 {
+        width: 326px;
+    }
+
+    .group4 {
+        width: 326px;
+    }
+
+    .group5 {
+        width: 317px;
+        height: 221px;
+    }
+
+    .group6 {
+        width: 317px;
+    }
+
+    footer div {
+        padding-left: 120px;
+    }
+}
+
+
+@media all and (max-width : 1020px) {
+    .container {width: 800px;}
+
+
+h2 {
+    margin-top: 60px;
+    font-size: 30px;
+}
+    
+
+nav li {
+    display: none;
+}
+
+.adaptiveNav {
+    display: block;
+}
+
+.adaptiveNavUl {
+    list-style: none;
+    margin-left: 8px;
+    margin-right: 30px;
+}
+
+.adaptiveNavUl a {
+    text-decoration: none;
+    line-height: 55px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: #0F0E0E;
+}
+
+.topBlockL {
+    width: 670px;
+    height: 330px;
+    margin-bottom: 10px;
+}
+
+.topBlockRT {
+    width: 330px;
+    height: 180px;
+}
+
+.topBlockRB {
+    width: 330px;
+}
+
+.blockMenuUl {
+    margin-left: 130px;
+}
+
+.blockMenuLi {
+    margin-right: 45px;
+}
+
+.blockMenuLi h4 {
+    font-size: 16px;
+}
+
+.floatRight button {
+    width: 170px;
+}
+
+.contentImgShoesGeneral {
+    width: 185px;
+    height: 185px;
+}
+
+.contentShoesImgText {
+    margin-top: 135px;
+}
+
+.shoesModelDiv {
+    width: 182px;
+}
+
+.shoesModelImg {
+    width: 143px;
+    height: 143px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.cardProductPrice {
+    padding-left: 100px;
+}
+
+.newsLeft {
+    width: 420px;
+}
+
+.newsRightImg {
+    width: 375px;
+}
+
+h6 {
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.subscriptionTitle {
+    padding-left: 30px;
+}
+
+.subscriptionLeft {
+    width: 300px;
+    height: 242px;
+}
+
+.subscription {
+    height: 242px;
+    margin-top: 100px;
+}
+
+.subscriptionRight {
+    width: 480px;
+    margin-top: 15px;
+}
+
+.subscriptionContent {
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+.subscriptionInput {
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 255px;
+    height: 32px;
+}
+
+.subscriptionButton {
+    margin-top: 20px;
+}
+
+.subscriptionButton button {
+    width: 180px;
+    height: 33px;
+
+}
+
+.group1 {
+    background-size: cover;
+    width: 247px;
+    height: 151px;
+}
+
+.textGroup1 {
+    padding-top: 40px;
+}
+
+.group2 {
+    background-size: cover;
+    width: 247px;
+}
+
+.group3 {
+    background-size: cover;
+    width: 266px;
+    height: 392px;
+}
+
+.textGroup3 {
+    padding-top: 160px;
+}
+
+.group4 {
+    background-size: cover;
+    width: 266px;
+}
+
+.group5 {
+    background-size: cover;
+    width: 247px;
+    height: 151px;
+}
+
+.textGroup5 {
+    padding-top: 25px;
+}
+
+.group6 {
+    background-size: cover;
+    width: 247px;
+}
+
+footer div {
+    padding-left: 50px;
+}
+
+}
